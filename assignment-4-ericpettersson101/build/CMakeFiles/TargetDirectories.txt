@@ -1,0 +1,5 @@
+/home/jovyan/assignment-4-ericpettersson101/build/CMakeFiles/run_tests.dir
+/home/jovyan/assignment-4-ericpettersson101/build/CMakeFiles/run_app.dir
+/home/jovyan/assignment-4-ericpettersson101/build/CMakeFiles/test.dir
+/home/jovyan/assignment-4-ericpettersson101/build/CMakeFiles/edit_cache.dir
+/home/jovyan/assignment-4-ericpettersson101/build/CMakeFiles/rebuild_cache.dir
