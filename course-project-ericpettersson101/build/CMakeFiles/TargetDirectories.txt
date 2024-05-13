@@ -1,0 +1,3 @@
+/home/jovyan/course-project-ericpettersson101/build/CMakeFiles/run_app.dir
+/home/jovyan/course-project-ericpettersson101/build/CMakeFiles/edit_cache.dir
+/home/jovyan/course-project-ericpettersson101/build/CMakeFiles/rebuild_cache.dir

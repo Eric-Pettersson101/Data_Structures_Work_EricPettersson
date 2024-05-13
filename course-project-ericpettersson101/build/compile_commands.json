@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jovyan/course-project-ericpettersson101/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -o CMakeFiles/run_app.dir/driver.cpp.o -c /home/jovyan/course-project-ericpettersson101/driver.cpp",
+  "file": "/home/jovyan/course-project-ericpettersson101/driver.cpp"
+},
+{
+  "directory": "/home/jovyan/course-project-ericpettersson101/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -o CMakeFiles/run_app.dir/PriorityQueue.cpp.o -c /home/jovyan/course-project-ericpettersson101/PriorityQueue.cpp",
+  "file": "/home/jovyan/course-project-ericpettersson101/PriorityQueue.cpp"
+},
+{
+  "directory": "/home/jovyan/course-project-ericpettersson101/build",
+  "command": "/usr/bin/g++    -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -o CMakeFiles/run_app.dir/hash.cpp.o -c /home/jovyan/course-project-ericpettersson101/hash.cpp",
+  "file": "/home/jovyan/course-project-ericpettersson101/hash.cpp"
+}
+]
